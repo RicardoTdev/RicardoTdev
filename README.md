@@ -45,7 +45,7 @@ My projects apply solid architecture practices: layered design (Entity, Reposito
 
 ## 📌 Projetos em destaque
 
-### 🚚 [Fleet Management System](https://github.com/RicardoTdev/sistema-logistica-php)
+### 🚚 [Fleet Management System](https://github.com/RicardoTdev/fleet-management-system)
 Sistema de gestão de veículos e motoristas em PHP + MySQL, com arquitetura em camadas (Entity → Repository → Service), regras de negócio (inativação em vez de exclusão física, controle de vínculos ativos, histórico) e interface web funcional.
 
 `PHP` `OOP` `MySQL` `PDO` `Composer` `Business Rules`
@@ -59,10 +59,17 @@ Sistema bancário simples para prática de POO: classes, encapsulamento, contas,
 
 <br>
 
-### 🛒 Product Catalog
+### 🛒 [Product Catalog](https://github.com/RicardoTdev/catalogo-produtos-php)
 Catálogo de produtos com formulários, requisições POST, CRUD e organização de arquivos em PHP.
 
 `PHP` `CRUD` `HTML/CSS`
+
+<br>
+
+### 📐 [PHP OOP Practice](https://github.com/RicardoTdev/php_Rhdev)
+Projeto de estudo focado em fundamentos de Programação Orientada a Objetos em PHP.
+
+`PHP` `OOP`
 
 <br>
 
@@ -82,7 +89,7 @@ Catálogo de produtos com formulários, requisições POST, CRUD e organização
 ## 📫 Contato
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ricardo-t-661044307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Building real-world projects, one commit at a time.</i></p>
